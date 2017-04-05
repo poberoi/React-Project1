@@ -4,7 +4,9 @@
   "description": "creating a react app",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon --exec server.js --ignore public/"
+    "start": "nodemon --exec server.js --ignore public/",
+    "dev": "webpakc -md"
+
   },
   "repository": {
     "type": "git",
